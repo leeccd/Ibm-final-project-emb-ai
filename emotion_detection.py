@@ -9,3 +9,4 @@ def emotion_detector(text_to_analyze):
     response_data = json.loads(response.text)
 
     return response_data
+
